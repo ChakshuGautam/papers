@@ -7,7 +7,7 @@
 5. [The Impact of Thread-Per-Core Architecture on Application Tail Latency](https://penberg.org/papers/tpc-ancs19.pdf)
 6. [LMStream: When Distributed Micro-Batch Stream Processing Systems Meet GPU](https://arxiv.org/pdf/2111.04289.pdf)
 7. [The Deletable Bloom filter](https://arxiv.org/pdf/1005.0352.pdf)
-8. 
+8. [IO Uring](https://kernel.dk/io_uring.pdf)
 
 
 ## Meta Links
