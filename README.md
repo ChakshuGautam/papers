@@ -9,6 +9,7 @@
 7. [The Deletable Bloom filter](https://arxiv.org/pdf/1005.0352.pdf)
 8. [IO Uring](https://kernel.dk/io_uring.pdf)
 9. [Memory Barriers: a Hardware View for Software Hackers](http://www.puppetmastertrading.com/images/hwViewForSwHackers.pdf)
+10. [Scaling Memcache at Facebook](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf)
 
 
 ## Meta Links
