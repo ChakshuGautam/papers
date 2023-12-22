@@ -10,6 +10,7 @@
 8. [IO Uring](https://kernel.dk/io_uring.pdf)
 9. [Memory Barriers: a Hardware View for Software Hackers](http://www.puppetmastertrading.com/images/hwViewForSwHackers.pdf)
 10. [Scaling Memcache at Facebook](https://pdos.csail.mit.edu/6.824/papers/memcache-fb.pdf)
+11. [Publicly Auditable Secure Multi-Party Computation](https://eprint.iacr.org/2014/075.pdf)
 
 
 ## Meta Links
